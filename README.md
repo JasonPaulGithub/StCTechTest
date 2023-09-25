@@ -20,6 +20,7 @@ We are flexible on the way you store the information, but you should ensure the 
 
 
 If you feel you have time: 
+
 • The end point should check for malicious code being passed into it. 
 
 • Provide a method to decrypt the information. 
