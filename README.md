@@ -4,7 +4,9 @@ Interview Questions and Task Please see below a task that the team would like yo
 along with the interview questions to prepare for. 
 Task rely on a custom-built APIs and microservices which take our donations and make sure the data can then be consumed by our third-party systems. 
 Your task is to build a simple Java REST API service with the necessary endpoints that will be able to take user information and then store that information. 
-We are flexible on the way you store the information, but you should ensure the following criteria are met: • The data should be encrypted. 
+We are flexible on the way you store the information, but you should ensure the following criteria are met: 
+
+• The data should be encrypted. 
 
 • The code should be unit tested.
 
