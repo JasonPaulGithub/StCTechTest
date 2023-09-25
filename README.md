@@ -6,16 +6,24 @@ Task rely on a custom-built APIs and microservices which take our donations and 
 Your task is to build a simple Java REST API service with the necessary endpoints that will be able to take user information and then store that information. 
 We are flexible on the way you store the information, but you should ensure the following criteria are met: • The data should be encrypted. 
 
-• The code should be unit tested. 
+• The code should be unit tested.
+
 • The code should be commented. 
+
 • The project should be built using MVN. 
+
 • The project should be hosted on GitHub or Bitbucket. 
+
 • A readme file containing build, deployment, and use instructions should be included as part of the project. 
+
 
 If you feel you have time: 
 • The end point should check for malicious code being passed into it. 
+
 • Provide a method to decrypt the information. 
+
 • Containerise the solution and provide documentation on how to build and run. 
+
 
 Once you have completed the task, please send a GitHub/bitbucket URL at least 24 hours before your second stage interview to The team will be reviewing 
 this ahead of your meeting and will ask some follow-up questions about your code/solution at the start of your interview, 
