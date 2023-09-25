@@ -33,10 +33,18 @@ this ahead of your meeting and will ask some follow-up questions about your code
 so please be prepared to discuss your solution in more detail! If you have any questions concerning the task, , or any other questions regarding your interview please email . 
 
 Interview Questions
+
 What experience of working in the cloud do you have and what are your opinions on cloud vs on premises?
+
 What are your experiences of working within an Agile methodology?
+
 Tell us about the most challenging problem you've solved within development, on your own.
+
 Tell us about the most challenging problem you've solved within development whilst working as a team and how you contributed to the solution?
+
 Have you worked in a previous role where safeguarding is involved / What safeguarding considerations would you make as part of this role?
-In what ways do you think diversity is important in technology? Please note, for this position the team will also ask several technical questions during the interview that are not shared in advance. 
+
+In what ways do you think diversity is important in technology? 
+
+Please note, for this position the team will also ask several technical questions during the interview that are not shared in advance. 
 These will be to test your technical knowledge relevant to the role. 
