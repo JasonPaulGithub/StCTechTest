@@ -1,5 +1,36 @@
 # StCTechTest
 
+Tech test to create GET and POST endpoints with encrypted data in back-end.
+
+Setup:
+> docker compose up -d
+ 
+Access to the Docker instance via Bash:
+> docker exec -it postgres bash
+
+Access psql on instance:
+> psql -U jason
+
+Create the relation table:
+> CREATE TABLE relation
+
+access the relation table:
+> \c relation
+
+Run Post request:
+> http://localhost:8080/api/v1/user
+ 
+Request Body: 
+> {"name":"jason","email":"email"}
+
+
+See the table values:
+> SELECT * FROM "user_entity";
+
+
+
+Details of task:
+
 Interview Questions and Task Please see below a task that the team would like you to complete ahead of your 2nd interview, 
 along with the interview questions to prepare for. 
 Task rely on a custom-built APIs and microservices which take our donations and make sure the data can then be consumed by our third-party systems. 
